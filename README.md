@@ -1,2 +1,5 @@
 # learn-something-new-every-day
-Repository where I keep track of all things I learn every day
+
+## Day 1 30-12-2023
+
+## Modelos arquitectonicos
