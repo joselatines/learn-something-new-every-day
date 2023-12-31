@@ -37,3 +37,7 @@ It's worth noting that software architecture doesn't have a single definition; i
    - Generates independent parts that can be changed without affecting the rest.
 
 ## Day 2 - 31-12-2023 - Software Architecture Patterns
+
+More about Hexagonal architeture , MVC and microservices
+
+## Day 3 - 01-01-2024 - Empty
