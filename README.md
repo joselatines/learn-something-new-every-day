@@ -40,4 +40,6 @@ It's worth noting that software architecture doesn't have a single definition; i
 
 More about Hexagonal architeture , MVC and microservices
 
-## Day 3 - 01-01-2024 - Empty
+## Day 3 - 01-01-2024 - Nuxt js
+
+I found a job where the technology that they are using is nuxt js so I learned it
