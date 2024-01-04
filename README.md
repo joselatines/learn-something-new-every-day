@@ -45,3 +45,6 @@ More about Hexagonal architeture , MVC and microservices
 I found a job where the technology that they are using is nuxt js so I learned it
 
 ## Day 4 - 01-02-2024 - MVC Architecture 
+
+## Day 5 - 01-03-2024 - Microservices Architecture 
+
