@@ -46,5 +46,6 @@ I found a job where the technology that they are using is nuxt js so I learned i
 
 ## Day 4 - 01-02-2024 - MVC Architecture 
 
-## Day 5 - 01-03-2024 - Microservices Architecture 
+## Day 5 - 01-03-2024 - Microservices Architecture
 
+## Day 6 - 01-04-2024 - Hexagonal Architecture  
