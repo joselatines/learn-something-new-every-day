@@ -53,3 +53,5 @@ I found a job where the technology that they are using is nuxt js so I learned i
 ## Day 7 - 01-05-2024 - Hexagonal Architecture (Advanced)
 
 ## Day 8 - 01-06-2024 - Liquity 
+
+## Day 9 - 01-07-2024 - Design Patterns
